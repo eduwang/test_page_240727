@@ -9,7 +9,7 @@ body, html {
     align-items: center;
     background-color: #dfffd6; /* 밝은 녹색 배경색 */
     overflow: hidden;
-    color: white;
+    color: #004d00; /* 어두운 녹색 텍스트 색상 */
     font-family: Arial, sans-serif;
     text-align: center;
 }
